@@ -772,7 +772,7 @@ GameObject:
   - component: {fileID: 1269836542}
   - component: {fileID: 1269836547}
   m_Layer: 0
-  m_Name: TestVideoSphere
+  m_Name: TestSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
